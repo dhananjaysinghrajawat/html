@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(52, 235, 143);
+}
+.heading{
+    background-color: rgb(125, 178, 181);
+    width:150px;
+    height:auto;
+    font-size: 2em;
+    margin: 100px 300px 40px 50px;
+    padding: 45px;}
+    
+    .para{
+        background-color: brown;
+        width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+
+    
+
+/* dimensions */
+.box{
+    background-color: aquamarine;
+    width: 250px;
+    height: 100px;
+    font-size: 2em ;
+    border:10px solid blue ;
+    border-radius: 20%;
+
+}
+
+/* display */
+
+
