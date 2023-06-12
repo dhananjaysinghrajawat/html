@@ -1,0 +1,9 @@
+#first time
+git init
+
+git status
+git add.
+
+#first time
+git config --global user.name"dhananjaysinghrajawat"
+git config --global user.email"dhananjaysingh1252001@gmail.com"
